@@ -53,26 +53,27 @@ publications:
 
         - title: Certificate in Direct and Digital Marketing
           authors: Institute of Direct and Digital Marketing, 2016
+ 
+        - title: Undergraduate Graduation Ceremony Student Orator
+          authors: Newcastle University, 2016      
+          
+        - title: Chair of Newcastle University Staff Student Committee
+          authors: Newcastle University, 2015 - 2016  
 
+        - title: Newcastle University Raising and Giving Committee Member
+          authors: Newcastle University, 2015 - 2016 
+
+        - title: Newcastle University Peer Mentor
+          authors: Newcastle University, 2015 - 2016                  
+
+        - title: Awards Evening Guest Speaker
+          authors: Alcester Grammar School, 2014
+  
         - title: CEO Award for Excellence
           authors: Merlin Entertainments, 2013
           
         - title: Employee of The Year 
           authors: Merlin Entertainments, 2012
-
-        - title: Certificate in Direct and Digital Marketing
-          authors: Institute of Direct and Digital Marketing, 2016
-
-        - title: CEO Award for Excellence
-          authors: Merlin Entertainments, 2013         
-
-    Responsibilities:
-        - title:  Student Orator at Newcastle University Graduation Ceremony
-        - title:  Guest Speaker at Alcester Grammar School Awards Evening
-        - title:  Chair of Newcastle University Staff Student Committee
-        - title:  Member of Newcastle University London Alumni Committee
-        - title:  Newcastle University Raising and Giving Committee Member
-        - title:  Newcastle University Peer Mentor
 
 education:
     - degree: International Marketing MSc
@@ -153,39 +154,40 @@ experiences:
          waste reports were all on target or better.
 
 projects:
-    title: Projects
+    title: 353
     intro: >
-        You can list your side projects or open source libraries in this
-        section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        When i was 17 years old I lost my eldest brother in Afghanistan. 
+        He was the 353rd soldier to loose his life. I was determined to ensure 
+        this wasn't the end and in fact a new beginning. And thus, the 353 Charitable 
+        Trust was born. Having researched the competitive landscape I devised the brand,
+        its values and its identity. The main aim of 353 is to generate income that can be
+        reinvested into existing charities to help the injured, the fallen and their 
+        families. Since 2011, the 353 Charitable Trust has successfully built a worth of 
+        just shy of 1 million pounds. Within my work for the charity I have learned how to 
+        apply a number of marketing techniques to successfully harness the power of both 
+        online and offline media. 
 
-    assignments:
-        - title: Velocity
-          link: "#hook"
-          tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-        - title: DevStudio
-          link: "#"
-          tagline: "A responsive website template designed to help web developers/designers market their services."
-
-        - title: Tempo
-          link: "#"
-          tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-        - title: Atom
-          link: "#"
-          tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-        - title: Delta
-          link: "#"
-          tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        My most recent work has been regarding the launch of the ‘The
+        Lost Boys of Quadrat’ online and physical diary (diary.353.org.uk).
+        The physical copy of the diary is extra special, just like everything
+        353 aim to achieve. There are two forms of the diary. Along side
+        a generic copy, the second was created to be an 'extra special'
+        investment purchase, with only 100 made. The casing of the
+        diary was made by men and women in Afghanistan and shipped
+        to the UK. The casing contains a handmade dog-tag, identical to
+        that of Conrad's as well as an empty shell casing used in Afghan.
+        The diary itself is printed with ink containing the blood of soldiers
+        from the Parachute Regiment who served along side Conrad.
+        The creative idea was to produce something that allowed people
+        to be as close to the front line mentally, whilst they were reading
+        the incredibly truthful and heartfelt diary of Pte.C.Burtenshaw.
 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-        - name: Python & Django
+        - name: Branding
           level: 98%
 
         - name: Javascript & jQuery
@@ -203,4 +205,12 @@ skills:
         - name: Sketch & Photoshop
           level: 60%
 
+        - name: HTML5 & CSS
+          level: 95%
+
+        - name: Ruby on Rails
+          level: 85%
+
+        - name: Sketch & Photoshop
+          level: 60%
 ? footer
