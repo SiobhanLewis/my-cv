@@ -64,36 +64,33 @@ publications:
           conference: "Comm. ACM 4 (1961), 51–55"
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: International Marketing MSc
+      university: Newcastle University, London
+      time: 2016 - 2017
       details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Average: 80.1% (Distinction) 
+            - Marketing Dissertation: 85
+            - BPrinciples of Marketing: 92
+            - International Business Environments: 80
+            - Market Analysis: 91
+            - Consumer Behaviour: 78
+            - Marketing Research: 79
+            - International Brand Marketing: 71
+            - International Marketing: 72
+            - International Marketing Communications: 70
+            - E-Marketing: 76
+            - Customer Relationship Management: 78
 
-            - Bullet point
-            - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Marketing and Management BA
+      university: Newcastle University, Newcastle
+      time: 2013 - 2016
       details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-
-            - Bullet point
-            - Bullet point 
+          Average: 69.1% (upper second class)
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Marketing Graduate Trainee
+      time: 2017 - Present
+      company: Jewson, Saint-Gobain
       details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,31 +105,41 @@ experiences:
             - Bullet point
             - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: OFFICE MANAGER AND 353 ACCOUNT HANDLER
+      time: 2015 - 2016
+      company: Chapter Creative Agency
       details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          As well as the day-to-day running of the office, i was also in
+          charge of publishing the 'Lost Boys of Quadrat' diary. This diary
+          was published online (diary.353.org.uk) in 2015 so my main role
+          was publishing manager of the online diary into a physical
+          format, which was launched at the annual 353 ball in February.
 
-            - Bullet point
-            - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: STUDENT AMBASSADOR
+      time: 2015 - 2016
+      company: Newcastle University
       details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          This involved attending events as a representative for the
+          University, such as student open days where parents and
+          students would ask me questions about University life.
 
-            - Bullet point
-            - Bullet point
+    - role: STUDENT MENTOR
+      time: 2015 - 2016
+      company: Newcastle University
+      details: |
+          This involved going into a school once and week and talking to a
+          small group of secondary school pupils about key skills and
+          tactics that they can use during school (e.g. creating revision
+          timetables and dealing with stress).
+
+    - role: FOOD AND BEVERAGE SUPERVISOR
+      time: 2013 - 2014
+      company: Warwick Castle, Merlin Entertainment
+      details: |
+         Working the day to day running of 13 units and over 100
+         members of staff, this included, making sure sales; mystery guest
+         reports; KPI results; food audits; health and safety reports and
+         waste reports were all on target or better.
 
 projects:
     title: Projects
