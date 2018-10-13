@@ -46,6 +46,8 @@ career-profile:
 publications:
     title: Responsibilities and Achievements
     intro: |
+    
+    blahblah
 
     Achievements:
         - title: Postgraduate Academic Excellence Award for Top Performing Student 
@@ -57,7 +59,7 @@ publications:
         - title: CEO Award for Excellence
           authors: Merlin Entertainments, 2013
           
-         - title: Employee of The Year 
+        - title: Employee of The Year 
           authors: Merlin Entertainments, 2012
 
         - title: Certificate in Direct and Digital Marketing
