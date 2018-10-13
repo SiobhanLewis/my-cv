@@ -104,18 +104,11 @@ experiences:
       time: 2017 - Present
       company: Jewson, Saint-Gobain
       details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-
-            - Bullet point
-            - Bullet point 
+          Since being at Jewson i have had the opportunity to take part in a 
+          number of different marketing activities, helping to put my academic
+          learnings into practice. From brochures and e-mails to spend incentives
+          and website creation, i have been lucky to work on a large number
+          of incentives with proven results.
 
     - role: OFFICE MANAGER AND 353 ACCOUNT HANDLER
       time: 2015 - 2016
@@ -190,27 +183,45 @@ skills:
         - name: Branding
           level: 98%
 
-        - name: Javascript & jQuery
-          level: 98%
+        - name: Market Research
+          level: 90%
 
-        - name: Angular
-          level: 98%
+        - name: Email Marketing
+          level: 75%
 
-        - name: HTML5 & CSS
-          level: 95%
+        - name: Analytical Skills
+          level: 75%
 
-        - name: Ruby on Rails
+        - name: Creativity
           level: 85%
 
-        - name: Sketch & Photoshop
-          level: 60%
+        - name: Copywriting
+          level: 70%
 
-        - name: HTML5 & CSS
-          level: 95%
+        - name: Marketing Strategy
+          level: 80%
 
-        - name: Ruby on Rails
+        - name: Marketing Communications
           level: 85%
 
-        - name: Sketch & Photoshop
-          level: 60%
+        - name: Social Media Marketing
+          level: 78%
+
+        - name: Stakeholder Management
+          level: 95%
+
+        - name: Project Management
+          level: 92%
+
+        - name: Communication Skills
+          level: 88%
+
+        - name: International Marketing 
+          level: 88%
+
+        - name: Marketing Communications
+          level: 85%
+
+        - name: Social Media Marketing
+          level: 78%
 ? footer
